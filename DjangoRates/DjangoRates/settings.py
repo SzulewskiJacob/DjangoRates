@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [os.getenv(‘WEBSITE_ ALLOWED), ‘127.0.0.1’]
+ALLOWED_HOSTS = [os.getenv(‘WEBSITE_ALLOWED), ‘127.0.0.1’]
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
