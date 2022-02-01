@@ -59,6 +59,7 @@
     <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".env" />
     <Content Include="app\static\app\EuroHistorical.csv" />
     <Content Include="app\static\app\logo.png" />
     <Content Include="app\static\app\PoundHistorical.csv" />
